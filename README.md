@@ -136,7 +136,9 @@ Scikit-learn
 Statsmodels
 
 📂 Project Structure
-Bike_Sharing_Demand_Prediction/
+Bike_Sharing_Demand_Prediction
+
+/
 │
 ├── bike_sharing_Demand_Prediction.ipynb
 ├── dataset.csv
